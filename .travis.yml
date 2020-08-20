@@ -1,4 +1,9 @@
 language: java
 jdk:
+<<<<<<< HEAD
   - openjdk10
   - openjdk11
+=======
+_ openjdk10
+_ openjdk11
+>>>>>>> 3ebbe6978ed5d990615ede33d033e84ce1ae8387
